@@ -6,9 +6,9 @@ from PyQt5.QtCore import Qt
 import os
 import PIL
 import time
-# import sys, os
+import sys, os
 
-# os.chdir(sys._MEIPASS)
+os.chdir(sys._MEIPASS)
 
 class App(QMainWindow):
 
@@ -292,7 +292,7 @@ class App(QMainWindow):
        
 
     def single_bubble_clicked(self, event):
-        print("single bubble clicekd")
+        print("single bubble clicked")
         self.single_bubble.setVisible(False)
         self.dir_bubble.setVisible(False)
         self.single_bubble_expanded.setVisible(True)

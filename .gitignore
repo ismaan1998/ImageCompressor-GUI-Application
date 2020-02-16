@@ -1,0 +1,5 @@
+app.spec
+/build
+/__pycache__
+/dist
+ImageCompressor.spec
