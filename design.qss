@@ -1,0 +1,112 @@
+#main_window
+{
+ background-color:black;
+}
+
+#status
+{
+color:white;
+}
+
+
+#bubble
+{
+    background-color:#202020;
+    min-width: 300px;
+    min-height: 125px;
+    max-width: 300px;
+    max-height: 125px;
+    border-radius: 20px;
+}
+
+
+#bubble_expanded
+{
+    background-color:#202020;
+    min-width: 300px;
+    min-height: 350px;
+    max-width: 300px;
+    max-height: 350px;
+    border-radius: 20px;
+}
+
+
+#bubble_heading
+{
+    color:white;
+    font-weight:bold;
+    font-size:15px;
+}
+
+
+
+#bubble_para
+{
+    color:white;
+    font-size:12px;
+    padding-right:10px;
+}
+
+
+#back_arrow
+{
+    color:white;
+    font-weight:bold;
+    font-size:25px;
+    border-radius:5px;
+    margin-top:5px;
+
+}
+
+#back_arrow:hover
+{
+    background-color:white;
+    color:#202020;
+}
+
+
+#path_text
+{
+    max-width:170px;
+    min-width:170px;
+    color:#202020;
+}
+
+
+#quality_path_text
+{
+    color:#202020;
+    max-width:100px;
+    min-width:100px;
+
+}
+
+#browse_button
+{
+    max-width:25px;
+    min-width:25px;
+    color:#202020;
+}
+
+#compress_button
+{
+    background-color:#202020;
+    border:1px solid white;
+    padding:8px;
+    border-radius:8px;
+    color:white;
+}
+
+#compress_button:hover
+{
+    background-color:white;
+    color:#202020
+}
+
+
+#quality_combo
+
+{
+    color:#202020
+
+}
