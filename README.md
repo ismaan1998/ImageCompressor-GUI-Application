@@ -1,6 +1,8 @@
 # ImageCompressor-GUI-Application
 
 This application reduces the file size of pictures without loosing its quality. 
+Download for Linux - https://github.com/ismaan1998/ImageCompressor-GUI-Application/blob/master/Applications/Linux%20/ImageCompressor 
+Download for Windows - https://github.com/ismaan1998/ImageCompressor-GUI-Application/blob/master/Applications/Windows/ImageCompressor.exe
 
 <img src = "https://github.com/ismaan1998/ImageCompressor-GUI-Application/blob/master/screenshots/image%20compressor1.png">
 <img src = "https://github.com/ismaan1998/ImageCompressor-GUI-Application/blob/master/screenshots/image%20compressor%202.png">
